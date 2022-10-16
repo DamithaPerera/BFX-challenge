@@ -1,0 +1,24 @@
+{
+  "name": "bfx-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DamithaPerera/BFX-challenge.git"
+  },
+  "author": "Damitha Perera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DamithaPerera/BFX-challenge/issues"
+  },
+  "homepage": "https://github.com/DamithaPerera/BFX-challenge#readme",
+  "dependencies": {
+    "grenache-grape": "^0.9.11",
+    "grenache-nodejs-http": "^0.7.12",
+    "grenache-nodejs-link": "^0.7.12"
+  }
+}
